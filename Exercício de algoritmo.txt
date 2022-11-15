@@ -1,0 +1,12 @@
+-> Pare o veículo em lugar seguro com pisca-alerta ligado;
+-> Pegue o triângulo sinalizador e sinalize a 30 passos da traseira do veículo colocando o triângulo no chão;
+-> Verifique se há um estepe, uma chave de roda e um macaco hidráulico no veículo. Senão houver, peça ajuda a alguma autoridade ou estabelecimento especializado;
+->  Caso tenha os 3 itens anteriores, pegue o macaco e levante-o até que sirva de apoio ao carro;
+-> Pegue o estepe e a chave, e comece a tirar a calota e os parafusos do pneu danificado;
+-> Retire o pneu danificado e coloque o estepe no lugar;
+-> Coloque os parafusos no estepe e aperte-os bem;
+-> Desça o carro e remova o macaco;
+-> Guarde o pneu danificado,a chave e o macaco;
+-> Retire o triângulo da pista;
+-> Ao retornar ao veículo, tenha em mente o cuidado de andar devagar e com cuidado com o estepe até ser feita a troca do mesmo;
+-> Boa viagem!

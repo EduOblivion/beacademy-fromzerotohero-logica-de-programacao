@@ -1,0 +1,24 @@
+a)1,3,5,7,____
+
+b)2,4,8,16,32,64,____
+
+c)0,1,4,9,16,25,36,____
+
+d)4,16,36,64,____
+
+e)1,1,2,3,5,8,____
+
+f)2,10,12,16,17,18,19,____
+
+R:
+a)9.(Sequência de números impares ou +2)
+
+b)128 (Sequência baseada na multiplicação por 2)
+
+c)49 (Sequência baseada na soma em uma outra sequência de números impares(+1,+3,+5,+7,+9,+11,+13))
+
+d)100 (Sequência de quadrados de números pares)
+
+e)13 (Sequência baseada na soma dos dois elementos anteriores)
+
+f) 200 (Sequência númerica baseada em um elemento não númerico a letra inicial do número escrito por extenso; dois, dez, doze, dezesseis, dezessete, dezoito, dezenove, duzentos.
