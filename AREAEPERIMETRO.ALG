@@ -1,16 +1,12 @@
 Algoritmo "AREAEPERIMETRO"
-// Lógica de Programação
-// Professor   : Marcos Monteiro 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 15/11/2022
+
 Var
-// Seção de Declarações das variáveis 
+
    lado1, lado2, lado3: REAL;
    figura, area, perimetro : caractere;
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+
 
    escreva("Escolha uma figura(Q-Quadrado ou T-Triangulo): ")
    leia(figura)
